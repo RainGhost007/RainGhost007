@@ -10,10 +10,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudando **Ciência da Computação** na **PUCRS**
+- 🎓 Graduando **Ciência da Computação** na **PUCRS**
 - ☕ Explorando o universo da programação com foco em **Java** e **Python**
 - 🧩 Sempre em busca de novos desafios — do alto nível ao baixo nível
 - 🎬 Criador do **Pipoca & Guaraná** — catálogo de filmes/séries feito em Java
+- 🤖 Estudando e implementando modelos de Machine e Deep Learning (MALTA)
 
 ---
 
