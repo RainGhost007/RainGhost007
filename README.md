@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Diogo%20Luiz%20Zago&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20C.C.%20|%20PUCRS&descAlignY=60&descAlign=50" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RainGhost007&color=6E40C9&style=flat-square&label=Visitas+no+perfil" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
